@@ -1,4 +1,4 @@
-import { AuthLayout } from '@components/layout/auth-layout';
+// import { AuthLayout } from '@components/layout/auth-layout';
 import { SEO } from '@components/common/seo';
 import { LoginMain } from '@components/login/login-main';
 import { LoginFooter } from '@components/login/login-footer';

@@ -21,6 +21,11 @@
       "@styles/*": ["styles/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "src/lib/firebase/initializeFirestore.js"
+  ],
   "exclude": ["node_modules", "functions"]
 }
