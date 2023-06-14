@@ -164,6 +164,8 @@ export function AuthContextProvider({
     } catch (error) {
       setError(error as Error);
     }
+
+    // ok
   };
 
   const signOut = async (): Promise<void> => {
