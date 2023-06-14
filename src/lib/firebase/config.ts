@@ -10,13 +10,13 @@
 
 // type Config = typeof config;
 const config = {
-  apiKey: 'AIzaSyA6hR_eaKVb_yKYLdcMydsvie8QzhHZ0Oo',
-  authDomain: 'twitter-app-clone-55703.firebaseapp.com',
-  projectId: 'twitter-app-clone-55703',
-  storageBucket: 'twitter-app-clone-55703.appspot.com',
-  messagingSenderId: '877590563200',
-  appId: '1:877590563200:web:dde875639c141989609965',
-  measurementId: 'G-J3BT92WT7G'
+  apiKey: 'AIzaSyCnZZUhP4kTGUiQi3zM7Fa3LbAVIRzKvOU',
+  authDomain: 'tweet-19a9d.firebaseapp.com',
+  projectId: 'tweet-19a9d',
+  storageBucket: 'tweet-19a9d.appspot.com',
+  messagingSenderId: '456256553730',
+  appId: '1:456256553730:web:f86596165d79d3fb15781b',
+  measurementId: 'G-1W0L48L9K0'
 } as const;
 
 type Config = typeof config;
